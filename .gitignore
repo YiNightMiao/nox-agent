@@ -1,0 +1,6 @@
+.theos/
+obj/
+packages/
+.DS_Store
+Resources/Icon-60@2x.png
+Resources/Icon-60@3x.png
